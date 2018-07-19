@@ -1,5 +1,7 @@
 # CancerCellDetectionAndClassificationUsingCNN
 
+This repository is for display only. The commits do not reflect the actual working process.
+
 Result Demo
 
 ![capture](https://user-images.githubusercontent.com/41398645/42961233-3805d642-8b5c-11e8-8bca-71fd60ddf0d5.JPG)
